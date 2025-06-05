@@ -11,6 +11,7 @@ langchain-community = "*"
 python-dotenv = "*"
 black = "*"
 faiss-cpu = "==1.7.4"
+pypdf = "*"
 
 [dev-packages]
 

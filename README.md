@@ -31,8 +31,10 @@ learn-faiss/
 ```bash
 pipenv install langchain langchain-openai langchainhub langchain-community
 pipenv install faiss-cpu
+pipenv install pypdf # Read PDF File (essential)
 pipenv install python-dotenv
 pipenv install black
+
 ```
 
 ### Quick Start

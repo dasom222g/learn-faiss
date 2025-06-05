@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+langchain = "*"
+langchain-openai = "*"
+langchainhub = "*"
+langchain-community = "*"
+python-dotenv = "*"
+black = "*"
+faiss-cpu = "==1.7.4"
 
 [dev-packages]
 

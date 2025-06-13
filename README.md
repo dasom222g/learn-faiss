@@ -1,4 +1,4 @@
-# Learning FAISS - Vector Search Practice Repository
+# Learning FAISS - Vector Search
 
 ## 📖 Overview
 
